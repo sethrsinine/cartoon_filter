@@ -91,7 +91,6 @@ numpy==1.26.4
 oauthlib==3.2.2
 openai==1.40.6
 opencv-contrib-python==4.9.0.80
-opencv-python==4.9.0.80
 opencv-python-headless==3.4.18.65
 opt_einsum==3.4.0
 optree==0.13.0
