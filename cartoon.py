@@ -89,9 +89,9 @@ else:
 
     with col1:
         st.subheader("Original Image")
-        st.image(image, use_column_width=True)
+        st.image(image, use_container_width=True)
 
     with col2:
         st.subheader("Cartoonized Image")
         cartoon = cartoonization(img, option)
-        st.image(cartoon, use_column_width=True)
+        st.image(cartoon, use_container_width=True)
